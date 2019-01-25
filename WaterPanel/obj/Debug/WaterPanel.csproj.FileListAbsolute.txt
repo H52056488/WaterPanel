@@ -1,0 +1,17 @@
+D:\ruanjian\kongjianmeihua\MyPanel\WaterPanel\bin\Debug\WaterPanel.dll
+D:\ruanjian\kongjianmeihua\MyPanel\WaterPanel\bin\Debug\WaterPanel.pdb
+D:\ruanjian\kongjianmeihua\MyPanel\WaterPanel\obj\Debug\WaterPanel.csproj.CoreCompileInputs.cache
+D:\ruanjian\kongjianmeihua\MyPanel\WaterPanel\obj\Debug\WaterPanel.dll
+D:\ruanjian\kongjianmeihua\MyPanel\WaterPanel\obj\Debug\WaterPanel.pdb
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226\WaterPanel\bin\Debug\WaterPanel.dll
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226\WaterPanel\bin\Debug\WaterPanel.pdb
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226\WaterPanel\obj\Debug\WaterPanel.csproj.CoreCompileInputs.cache
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226\WaterPanel\obj\Debug\WaterPanel.dll
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226\WaterPanel\obj\Debug\WaterPanel.pdb
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\bin\Debug\WaterPanel.dll
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\bin\Debug\WaterPanel.pdb
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\obj\Debug\WaterPanel.panel1.resources
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\obj\Debug\WaterPanel.csproj.GenerateResource.cache
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\obj\Debug\WaterPanel.csproj.CoreCompileInputs.cache
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\obj\Debug\WaterPanel.dll
+D:\ruanjian\kongjianmeihua\Alert\MyPanel1226shiyan\WaterPanel\obj\Debug\WaterPanel.pdb

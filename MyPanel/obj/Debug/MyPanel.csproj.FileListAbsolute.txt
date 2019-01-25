@@ -1,0 +1,9 @@
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\bin\Debug\MyPanel.exe.config
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\bin\Debug\MyPanel.exe
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\bin\Debug\MyPanel.pdb
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\obj\Debug\MyPanel.csprojAssemblyReference.cache
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\obj\Debug\MyPanel.Properties.Resources.resources
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\obj\Debug\MyPanel.csproj.GenerateResource.cache
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\obj\Debug\MyPanel.csproj.CoreCompileInputs.cache
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\obj\Debug\MyPanel.exe
+D:\ruanjian\kongjianmeihua\MyPanel\MyPanel\obj\Debug\MyPanel.pdb
